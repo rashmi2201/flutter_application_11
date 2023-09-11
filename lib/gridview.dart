@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
               child: Center(
                 child: Text(
                   'dudu $index',
-                  style: TextStyle(
+                  style: const TextStyle(
                     color: Colors.blue,
                     fontSize: 20, 
                     
