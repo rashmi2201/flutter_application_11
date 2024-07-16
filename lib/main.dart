@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const title = 'Basic List';
+    const title = 'Basic List ';
 
     return MaterialApp(
       title: title,
@@ -35,5 +35,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
